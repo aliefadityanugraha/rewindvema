@@ -1,5 +1,5 @@
 /** @format */
-
+AOS.init();
 let scrollTopBtn = document.querySelector(".scroll-top");
 
 window.onscroll = function () {
