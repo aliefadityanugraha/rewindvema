@@ -14,22 +14,37 @@
   transition-duration: 4s; */
   backdrop-filter: blur(30);
 }
-section {
+/* section {
   background-image: url("./img/ESEMKA.png");
   background-size: cover;
-}
+} */
+/* nav {
+  filter: blur(10px);
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(15px);
+  -o-filter: blur(15px);
+  -ms-filter: blur(15px);
+  z-index: 999;
+} */
 .wrapper {
   width: 100%;
   height: 100vh;
   background: linear-gradient(
     45deg,
-    rgba(252, 183, 17, 0.5) 0%,
-    rgba(243, 112, 33, 0.5) 23%,
-    rgba(204, 0, 76, 0.5) 44%,
-    rgba(100, 96, 170, 0.5) 61%,
-    rgba(0, 137, 208, 0.5) 79%,
-    rgba(13, 177, 75, 0.5) 100%
+    rgba(252, 183, 17, 0.2) 0%,
+    rgba(243, 112, 33, 0.2) 23%,
+    rgba(204, 0, 76, 0.2) 44%,
+    rgba(100, 96, 170, 0.2) 61%,
+    rgba(0, 137, 208, 0.2) 79%,
+    rgba(13, 177, 75, 0.2) 100%
   );
+}
+.wrapper-video {
+  height: 100vh;
+}
+video {
+  width: 100%;
+  height: 100%;
 }
 .wrapper-gradient {
   position: relative;
