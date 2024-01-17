@@ -9,6 +9,7 @@
 }
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 /* footer {
   background-image: url("./img/Background/1x/Asset\ 40.png");
