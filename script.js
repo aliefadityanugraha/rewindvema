@@ -1,6 +1,10 @@
 /** @format */
 AOS.init({
-  once: false,
+  once: true,
+  // disable: function () {
+  //   var maxWidth = 800;
+  //   return window.innerWidth < maxWidth;
+  // },
 });
 let scrollTopBtn = document.querySelector(".scroll-top");
 
