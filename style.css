@@ -43,7 +43,7 @@ body {
   display: block;
 }
 .logo {
-  height: 4vh;
+  height: 3vh;
 }
 .text-title {
   margin-top: 80px;
@@ -107,6 +107,6 @@ video {
     display: none;
   }
   .logo {
-    height: 6vw;
+    height: 5vw;
   }
 }
