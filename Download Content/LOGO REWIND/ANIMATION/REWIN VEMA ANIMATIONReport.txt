@@ -1,0 +1,61 @@
+Report created: 
+	20/01/2024	16:31:53
+
+Project name: REWIN VEMA NIMATION.aep
+
+Source files collected to: 
+	C:\Users\HP\Pictures\rewindvema\Download Content\ANIMATION
+
+Source files collected: All
+
+Collected comps:  
+	Render
+	Logo
+	Logo reveal
+	Logo scan
+	Floor
+	Texture.png Comp 1
+	Pre-comp 1
+	
+Number of collected files:  2
+
+Size of collected files:  1,5 MB
+
+Collected source files: 
+	C:\Users\HP\Pictures\REWIN VEMA NIMATION folder\(Footage)\Asset 37@4x.png
+	C:\Users\HP\Pictures\REWIN VEMA NIMATION folder\(Footage)\Texture.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  14
+
+Effect:  CC Glass
+	
+Effect:  Color Control
+	
+Effect:  Colorama
+	
+Effect:  Compound Blur
+	
+Effect:  Displacement Map
+	
+Effect:  Drop Shadow
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  Minimax
+	
+Effect:  Mosaic
+	
+Effect:  Motion Tile
+	
+Effect:  Saber
+	
+Effect:  Turbulent Displace
+	
+Effect:  VR Glow
+	
+
